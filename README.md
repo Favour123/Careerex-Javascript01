@@ -1,6 +1,6 @@
 # Making use of the Function for the Assignment
-# All functions already define correct has stated from the assignment
-# To make use them you just have to commment them out and make use of them by typing ### CTRL + / ### .
+# All functions already defined correctly have been stated in the assignment
+# To make use of them, you just have to comment them out and make use of them by typing ### CTRL + / ###.
 ### These are the functions 
 #### evenOrOddChecker();
 #### basicCalculator();
